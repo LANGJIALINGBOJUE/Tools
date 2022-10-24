@@ -1,0 +1,1 @@
+Optimizer可以用来禁用系统更新等Windows功能。
